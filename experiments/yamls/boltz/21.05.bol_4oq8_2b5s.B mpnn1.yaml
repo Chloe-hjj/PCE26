@@ -1,0 +1,23 @@
+version: 1
+sequences:
+- protein:
+    id: A
+    sequence: NSNVVTMIRAGSYPKVNPTPTWVRAIPFEVSVQSGIAFKVPVGSLFSANFRTDSFTSVTVMSVRAWTQLTPPVNEYSFVRLKPLFKTGDSTEEFEGRASNINTRASVGYRIPTNLRQNTVAADNVCEVRSNCRQVALVISCCFN
+- protein:
+    id: B
+    sequence: MITCGQVSSSLAPCIPYVRGGGAVPPACCNGIRNVNNLARTTPDRQAACNCLKQLSASVPGVNPNNAAALPGKCGVSIPYKISASTNCATVK
+constraints:
+- bond:
+    atom1:
+    - A
+    - 39
+    - NZ
+    atom2:
+    - B
+    - 44
+    - CG
+templates:
+    - cif: /templates/4OQ8.cif
+      force: true
+      threshold: 5
+      

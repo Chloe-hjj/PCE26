@@ -1,0 +1,18 @@
+>input, score=2.2004, global_score=2.2004, fixed_chains=[], designed_chains=['B'], model_name=v_48_020, git_hash=unknown, seed=729
+LREGEPD
+>T=0.1, sample=1, score=1.6708, global_score=1.6708, seq_recovery=0.2857
+ENAGLPE
+>T=0.1, sample=2, score=1.5580, global_score=1.5580, seq_recovery=0.2857
+ATAGTPA
+>T=0.1, sample=3, score=1.5758, global_score=1.5758, seq_recovery=0.2857
+ADAGTPA
+>T=0.1, sample=4, score=1.5910, global_score=1.5910, seq_recovery=0.2857
+ANAGTPA
+>T=0.1, sample=5, score=1.7388, global_score=1.7388, seq_recovery=0.2857
+ADAGVPP
+>T=0.1, sample=6, score=1.6795, global_score=1.6795, seq_recovery=0.2857
+ANAGTPP
+>T=0.1, sample=7, score=1.6586, global_score=1.6586, seq_recovery=0.2857
+ANAGVPE
+>T=0.1, sample=8, score=1.6425, global_score=1.6425, seq_recovery=0.2857
+ANAGLPE

@@ -1,0 +1,709 @@
+structures:
+- pdb: 10.04.7MRY.assembly.pdb
+  acidic_exposed:
+  - chain: C
+    residue_number: '221'
+    residue_type: GLU
+    sasa_total: 136.09
+    sasa_side_chain: 107.89
+    relative_side_chain: 0.816
+  - chain: B
+    residue_number: '131'
+    residue_type: GLU
+    sasa_total: 124.55
+    sasa_side_chain: 101.4
+    relative_side_chain: 0.767
+  - chain: B
+    residue_number: '316'
+    residue_type: GLU
+    sasa_total: 123.28
+    sasa_side_chain: 116.78
+    relative_side_chain: 0.883
+  - chain: A
+    residue_number: '316'
+    residue_type: GLU
+    sasa_total: 121.31
+    sasa_side_chain: 115.25
+    relative_side_chain: 0.872
+  - chain: C
+    residue_number: '316'
+    residue_type: GLU
+    sasa_total: 121.26
+    sasa_side_chain: 115.1
+    relative_side_chain: 0.871
+  - chain: B
+    residue_number: '152'
+    residue_type: GLU
+    sasa_total: 118.52
+    sasa_side_chain: 115.62
+    relative_side_chain: 0.875
+  - chain: A
+    residue_number: '131'
+    residue_type: GLU
+    sasa_total: 117.97
+    sasa_side_chain: 107.26
+    relative_side_chain: 0.811
+  - chain: A
+    residue_number: '370'
+    residue_type: ASP
+    sasa_total: 117.74
+    sasa_side_chain: 99.66
+    relative_side_chain: 0.992
+  - chain: C
+    residue_number: '370'
+    residue_type: ASP
+    sasa_total: 117.15
+    sasa_side_chain: 99.76
+    relative_side_chain: 0.993
+  - chain: B
+    residue_number: '370'
+    residue_type: ASP
+    sasa_total: 116.4
+    sasa_side_chain: 98.44
+    relative_side_chain: 0.98
+  - chain: A
+    residue_number: '481'
+    residue_type: ASP
+    sasa_total: 111.93
+    sasa_side_chain: 75.24
+    relative_side_chain: 0.749
+  - chain: C
+    residue_number: '481'
+    residue_type: ASP
+    sasa_total: 111.83
+    sasa_side_chain: 75.22
+    relative_side_chain: 0.749
+  - chain: A
+    residue_number: '221'
+    residue_type: GLU
+    sasa_total: 110.58
+    sasa_side_chain: 86.19
+    relative_side_chain: 0.652
+  - chain: C
+    residue_number: '194'
+    residue_type: ASP
+    sasa_total: 104.71
+    sasa_side_chain: 54.49
+    relative_side_chain: 0.542
+  - chain: A
+    residue_number: '152'
+    residue_type: GLU
+    sasa_total: 104.4
+    sasa_side_chain: 101.4
+    relative_side_chain: 0.767
+  - chain: A
+    residue_number: '194'
+    residue_type: ASP
+    sasa_total: 104.29
+    sasa_side_chain: 54.07
+    relative_side_chain: 0.538
+  - chain: B
+    residue_number: '194'
+    residue_type: ASP
+    sasa_total: 103.65
+    sasa_side_chain: 54.03
+    relative_side_chain: 0.538
+  - chain: B
+    residue_number: '209'
+    residue_type: ASP
+    sasa_total: 101.52
+    sasa_side_chain: 81.34
+    relative_side_chain: 0.81
+  - chain: C
+    residue_number: '209'
+    residue_type: ASP
+    sasa_total: 100.8
+    sasa_side_chain: 80.32
+    relative_side_chain: 0.799
+  - chain: A
+    residue_number: '209'
+    residue_type: ASP
+    sasa_total: 100.48
+    sasa_side_chain: 80.77
+    relative_side_chain: 0.804
+  - chain: C
+    residue_number: '152'
+    residue_type: GLU
+    sasa_total: 96.06
+    sasa_side_chain: 93.94
+    relative_side_chain: 0.711
+  - chain: C
+    residue_number: '315'
+    residue_type: GLU
+    sasa_total: 92.92
+    sasa_side_chain: 82.96
+    relative_side_chain: 0.628
+  - chain: B
+    residue_number: '315'
+    residue_type: GLU
+    sasa_total: 92.65
+    sasa_side_chain: 82.78
+    relative_side_chain: 0.626
+  - chain: A
+    residue_number: '315'
+    residue_type: GLU
+    sasa_total: 92.57
+    sasa_side_chain: 82.83
+    relative_side_chain: 0.627
+  - chain: C
+    residue_number: '235'
+    residue_type: GLU
+    sasa_total: 90.23
+    sasa_side_chain: 76.97
+    relative_side_chain: 0.582
+  - chain: C
+    residue_number: '471'
+    residue_type: ASP
+    sasa_total: 89.17
+    sasa_side_chain: 85.85
+    relative_side_chain: 0.854
+  - chain: A
+    residue_number: '471'
+    residue_type: ASP
+    sasa_total: 89.16
+    sasa_side_chain: 86.01
+    relative_side_chain: 0.856
+  - chain: B
+    residue_number: '471'
+    residue_type: ASP
+    sasa_total: 87.21
+    sasa_side_chain: 83.59
+    relative_side_chain: 0.832
+  - chain: B
+    residue_number: '235'
+    residue_type: GLU
+    sasa_total: 85.07
+    sasa_side_chain: 71.9
+    relative_side_chain: 0.544
+  - chain: A
+    residue_number: '193'
+    residue_type: ASP
+    sasa_total: 84.87
+    sasa_side_chain: 60.97
+    relative_side_chain: 0.607
+  - chain: B
+    residue_number: '221'
+    residue_type: GLU
+    sasa_total: 84.6
+    sasa_side_chain: 66.97
+    relative_side_chain: 0.507
+  - chain: C
+    residue_number: '193'
+    residue_type: ASP
+    sasa_total: 84.51
+    sasa_side_chain: 60.53
+    relative_side_chain: 0.602
+  - chain: C
+    residue_number: '131'
+    residue_type: GLU
+    sasa_total: 84.24
+    sasa_side_chain: 77.83
+    relative_side_chain: 0.589
+  - chain: B
+    residue_number: '193'
+    residue_type: ASP
+    sasa_total: 84.18
+    sasa_side_chain: 60.53
+    relative_side_chain: 0.602
+  - chain: A
+    residue_number: '312'
+    residue_type: ASP
+    sasa_total: 81.12
+    sasa_side_chain: 73.25
+    relative_side_chain: 0.729
+  - chain: B
+    residue_number: '312'
+    residue_type: ASP
+    sasa_total: 80.97
+    sasa_side_chain: 73.26
+    relative_side_chain: 0.729
+  - chain: A
+    residue_number: '235'
+    residue_type: GLU
+    sasa_total: 79.39
+    sasa_side_chain: 66.98
+    relative_side_chain: 0.507
+  - chain: B
+    residue_number: '247'
+    residue_type: GLU
+    sasa_total: 77.63
+    sasa_side_chain: 49.57
+    relative_side_chain: 0.375
+  - chain: C
+    residue_number: '247'
+    residue_type: GLU
+    sasa_total: 77.61
+    sasa_side_chain: 49.69
+    relative_side_chain: 0.376
+  - chain: A
+    residue_number: '247'
+    residue_type: GLU
+    sasa_total: 76.58
+    sasa_side_chain: 49.15
+    relative_side_chain: 0.372
+  - chain: B
+    residue_number: '481'
+    residue_type: ASP
+    sasa_total: 76.54
+    sasa_side_chain: 59.43
+    relative_side_chain: 0.591
+  - chain: B
+    residue_number: '506'
+    residue_type: ASP
+    sasa_total: 74.91
+    sasa_side_chain: 67.69
+    relative_side_chain: 0.674
+  - chain: A
+    residue_number: '506'
+    residue_type: ASP
+    sasa_total: 74.77
+    sasa_side_chain: 67.63
+    relative_side_chain: 0.673
+  - chain: C
+    residue_number: '506'
+    residue_type: ASP
+    sasa_total: 74.03
+    sasa_side_chain: 66.87
+    relative_side_chain: 0.666
+  - chain: C
+    residue_number: '312'
+    residue_type: ASP
+    sasa_total: 71.55
+    sasa_side_chain: 65.04
+    relative_side_chain: 0.647
+  - chain: C
+    residue_number: '341'
+    residue_type: ASP
+    sasa_total: 71.19
+    sasa_side_chain: 69.99
+    relative_side_chain: 0.697
+  - chain: A
+    residue_number: '341'
+    residue_type: ASP
+    sasa_total: 70.52
+    sasa_side_chain: 68.95
+    relative_side_chain: 0.686
+  - chain: B
+    residue_number: '84'
+    residue_type: ASP
+    sasa_total: 70.18
+    sasa_side_chain: 64.23
+    relative_side_chain: 0.639
+  - chain: C
+    residue_number: '84'
+    residue_type: ASP
+    sasa_total: 70.07
+    sasa_side_chain: 64.56
+    relative_side_chain: 0.643
+  - chain: A
+    residue_number: '84'
+    residue_type: ASP
+    sasa_total: 69.94
+    sasa_side_chain: 63.89
+    relative_side_chain: 0.636
+  - chain: A
+    residue_number: '289'
+    residue_type: ASP
+    sasa_total: 65.05
+    sasa_side_chain: 62.75
+    relative_side_chain: 0.625
+  - chain: B
+    residue_number: '289'
+    residue_type: ASP
+    sasa_total: 64.59
+    sasa_side_chain: 62.29
+    relative_side_chain: 0.62
+  - chain: C
+    residue_number: '289'
+    residue_type: ASP
+    sasa_total: 63.95
+    sasa_side_chain: 61.63
+    relative_side_chain: 0.613
+  - chain: B
+    residue_number: '341'
+    residue_type: ASP
+    sasa_total: 63.43
+    sasa_side_chain: 62.97
+    relative_side_chain: 0.627
+  - chain: C
+    residue_number: '391'
+    residue_type: ASP
+    sasa_total: 62.23
+    sasa_side_chain: 57.92
+    relative_side_chain: 0.576
+  - chain: A
+    residue_number: '391'
+    residue_type: ASP
+    sasa_total: 61.51
+    sasa_side_chain: 57.02
+    relative_side_chain: 0.568
+  - chain: B
+    residue_number: '376'
+    residue_type: GLU
+    sasa_total: 61.0
+    sasa_side_chain: 54.37
+    relative_side_chain: 0.411
+  - chain: B
+    residue_number: '391'
+    residue_type: ASP
+    sasa_total: 60.99
+    sasa_side_chain: 57.11
+    relative_side_chain: 0.568
+  - chain: C
+    residue_number: '376'
+    residue_type: GLU
+    sasa_total: 60.77
+    sasa_side_chain: 54.38
+    relative_side_chain: 0.411
+  - chain: A
+    residue_number: '376'
+    residue_type: GLU
+    sasa_total: 60.13
+    sasa_side_chain: 53.99
+    relative_side_chain: 0.408
+  - chain: A
+    residue_number: '374'
+    residue_type: ASP
+    sasa_total: 50.82
+    sasa_side_chain: 42.79
+    relative_side_chain: 0.426
+  - chain: C
+    residue_number: '374'
+    residue_type: ASP
+    sasa_total: 50.69
+    sasa_side_chain: 42.47
+    relative_side_chain: 0.423
+  - chain: A
+    residue_number: '269'
+    residue_type: ASP
+    sasa_total: 50.02
+    sasa_side_chain: 39.0
+    relative_side_chain: 0.388
+  - chain: B
+    residue_number: '374'
+    residue_type: ASP
+    sasa_total: 49.89
+    sasa_side_chain: 42.49
+    relative_side_chain: 0.423
+  - chain: B
+    residue_number: '399'
+    residue_type: GLU
+    sasa_total: 48.99
+    sasa_side_chain: 36.69
+    relative_side_chain: 0.278
+  - chain: B
+    residue_number: '269'
+    residue_type: ASP
+    sasa_total: 48.48
+    sasa_side_chain: 37.96
+    relative_side_chain: 0.378
+  - chain: C
+    residue_number: '269'
+    residue_type: ASP
+    sasa_total: 48.48
+    sasa_side_chain: 37.96
+    relative_side_chain: 0.378
+  - chain: C
+    residue_number: '399'
+    residue_type: GLU
+    sasa_total: 48.42
+    sasa_side_chain: 36.33
+    relative_side_chain: 0.275
+  - chain: A
+    residue_number: '399'
+    residue_type: GLU
+    sasa_total: 48.38
+    sasa_side_chain: 36.27
+    relative_side_chain: 0.274
+  - chain: B
+    residue_number: '518'
+    residue_type: ASP
+    sasa_total: 42.82
+    sasa_side_chain: 23.24
+    relative_side_chain: 0.231
+  - chain: B
+    residue_number: '173'
+    residue_type: ASP
+    sasa_total: 42.67
+    sasa_side_chain: 26.73
+    relative_side_chain: 0.266
+  - chain: C
+    residue_number: '518'
+    residue_type: ASP
+    sasa_total: 42.57
+    sasa_side_chain: 23.22
+    relative_side_chain: 0.231
+  - chain: C
+    residue_number: '464'
+    residue_type: GLU
+    sasa_total: 42.56
+    sasa_side_chain: 38.56
+    relative_side_chain: 0.292
+  - chain: A
+    residue_number: '173'
+    residue_type: ASP
+    sasa_total: 42.31
+    sasa_side_chain: 26.72
+    relative_side_chain: 0.266
+  - chain: B
+    residue_number: '464'
+    residue_type: GLU
+    sasa_total: 42.14
+    sasa_side_chain: 38.37
+    relative_side_chain: 0.29
+  - chain: C
+    residue_number: '173'
+    residue_type: ASP
+    sasa_total: 42.01
+    sasa_side_chain: 26.19
+    relative_side_chain: 0.261
+  - chain: A
+    residue_number: '464'
+    residue_type: GLU
+    sasa_total: 41.3
+    sasa_side_chain: 37.67
+    relative_side_chain: 0.285
+  - chain: B
+    residue_number: '74'
+    residue_type: GLU
+    sasa_total: 40.63
+    sasa_side_chain: 34.18
+    relative_side_chain: 0.259
+  - chain: C
+    residue_number: '104'
+    residue_type: GLU
+    sasa_total: 38.4
+    sasa_side_chain: 38.4
+    relative_side_chain: 0.291
+  - chain: B
+    residue_number: '104'
+    residue_type: GLU
+    sasa_total: 38.28
+    sasa_side_chain: 38.28
+    relative_side_chain: 0.29
+  - chain: A
+    residue_number: '104'
+    residue_type: GLU
+    sasa_total: 38.22
+    sasa_side_chain: 38.22
+    relative_side_chain: 0.289
+  - chain: B
+    residue_number: '63'
+    residue_type: GLU
+    sasa_total: 37.97
+    sasa_side_chain: 36.62
+    relative_side_chain: 0.277
+  - chain: C
+    residue_number: '236'
+    residue_type: GLU
+    sasa_total: 36.92
+    sasa_side_chain: 27.1
+    relative_side_chain: 0.205
+  - chain: A
+    residue_number: '211'
+    residue_type: ASP
+    sasa_total: 32.23
+    sasa_side_chain: 31.53
+    relative_side_chain: 0.314
+  - chain: C
+    residue_number: '211'
+    residue_type: ASP
+    sasa_total: 31.23
+    sasa_side_chain: 30.54
+    relative_side_chain: 0.304
+  - chain: B
+    residue_number: '211'
+    residue_type: ASP
+    sasa_total: 30.93
+    sasa_side_chain: 30.3
+    relative_side_chain: 0.302
+  - chain: C
+    residue_number: '63'
+    residue_type: GLU
+    sasa_total: 30.76
+    sasa_side_chain: 29.44
+    relative_side_chain: 0.223
+  - chain: A
+    residue_number: '63'
+    residue_type: GLU
+    sasa_total: 29.47
+    sasa_side_chain: 28.01
+    relative_side_chain: 0.212
+  - chain: B
+    residue_number: '298'
+    residue_type: ASP
+    sasa_total: 29.11
+    sasa_side_chain: 29.02
+    relative_side_chain: 0.289
+  - chain: C
+    residue_number: '298'
+    residue_type: ASP
+    sasa_total: 28.64
+    sasa_side_chain: 28.62
+    relative_side_chain: 0.285
+  - chain: A
+    residue_number: '298'
+    residue_type: ASP
+    sasa_total: 27.92
+    sasa_side_chain: 27.92
+    relative_side_chain: 0.278
+  basic_exposed:
+  - chain: B
+    residue_number: '248'
+    residue_type: LYS
+    sasa_total: 83.66
+    sasa_side_chain: 80.66
+    relative_side_chain: 0.495
+  - chain: A
+    residue_number: '248'
+    residue_type: LYS
+    sasa_total: 83.46
+    sasa_side_chain: 80.43
+    relative_side_chain: 0.494
+  - chain: C
+    residue_number: '248'
+    residue_type: LYS
+    sasa_total: 82.32
+    sasa_side_chain: 79.51
+    relative_side_chain: 0.488
+  - chain: B
+    residue_number: '493'
+    residue_type: LYS
+    sasa_total: 64.35
+    sasa_side_chain: 62.99
+    relative_side_chain: 0.386
+  - chain: C
+    residue_number: '493'
+    residue_type: LYS
+    sasa_total: 63.81
+    sasa_side_chain: 62.47
+    relative_side_chain: 0.383
+  - chain: A
+    residue_number: '493'
+    residue_type: LYS
+    sasa_total: 63.28
+    sasa_side_chain: 61.84
+    relative_side_chain: 0.379
+  - chain: A
+    residue_number: '177'
+    residue_type: LYS
+    sasa_total: 62.07
+    sasa_side_chain: 62.07
+    relative_side_chain: 0.381
+  - chain: B
+    residue_number: '177'
+    residue_type: LYS
+    sasa_total: 62.06
+    sasa_side_chain: 62.06
+    relative_side_chain: 0.381
+  - chain: C
+    residue_number: '177'
+    residue_type: LYS
+    sasa_total: 61.79
+    sasa_side_chain: 61.79
+    relative_side_chain: 0.379
+  - chain: B
+    residue_number: '329'
+    residue_type: LYS
+    sasa_total: 61.7
+    sasa_side_chain: 61.38
+    relative_side_chain: 0.377
+  - chain: C
+    residue_number: '329'
+    residue_type: LYS
+    sasa_total: 60.56
+    sasa_side_chain: 60.17
+    relative_side_chain: 0.369
+  - chain: A
+    residue_number: '329'
+    residue_type: LYS
+    sasa_total: 60.11
+    sasa_side_chain: 59.85
+    relative_side_chain: 0.367
+  - chain: A
+    residue_number: '348'
+    residue_type: LYS
+    sasa_total: 42.15
+    sasa_side_chain: 38.5
+    relative_side_chain: 0.236
+  - chain: B
+    residue_number: '225'
+    residue_type: LYS
+    sasa_total: 41.79
+    sasa_side_chain: 36.76
+    relative_side_chain: 0.226
+  - chain: C
+    residue_number: '348'
+    residue_type: LYS
+    sasa_total: 41.69
+    sasa_side_chain: 36.99
+    relative_side_chain: 0.227
+  - chain: C
+    residue_number: '225'
+    residue_type: LYS
+    sasa_total: 41.14
+    sasa_side_chain: 35.88
+    relative_side_chain: 0.22
+  - chain: A
+    residue_number: '225'
+    residue_type: LYS
+    sasa_total: 41.12
+    sasa_side_chain: 35.95
+    relative_side_chain: 0.221
+  - chain: B
+    residue_number: '348'
+    residue_type: LYS
+    sasa_total: 38.76
+    sasa_side_chain: 35.67
+    relative_side_chain: 0.219
+  - chain: C
+    residue_number: '118'
+    residue_type: LYS
+    sasa_total: 36.65
+    sasa_side_chain: 36.65
+    relative_side_chain: 0.225
+  - chain: C
+    residue_number: '361'
+    residue_type: LYS
+    sasa_total: 36.51
+    sasa_side_chain: 35.02
+    relative_side_chain: 0.215
+  - chain: B
+    residue_number: '361'
+    residue_type: LYS
+    sasa_total: 36.2
+    sasa_side_chain: 34.56
+    relative_side_chain: 0.212
+- pdb: 2B5S.B.pdb
+  acidic_exposed:
+  - chain: B
+    residue_number: '43'
+    residue_type: ASP
+    sasa_total: 34.06
+    sasa_side_chain: 34.06
+    relative_side_chain: 0.339
+  basic_exposed:
+  - chain: B
+    residue_number: '91'
+    residue_type: LYS
+    sasa_total: 193.51
+    sasa_side_chain: 166.86
+    relative_side_chain: 1.024
+  - chain: B
+    residue_number: '80'
+    residue_type: LYS
+    sasa_total: 127.01
+    sasa_side_chain: 118.26
+    relative_side_chain: 0.726
+  - chain: B
+    residue_number: '72'
+    residue_type: LYS
+    sasa_total: 122.87
+    sasa_side_chain: 93.78
+    relative_side_chain: 0.575
+  - chain: B
+    residue_number: '52'
+    residue_type: LYS
+    sasa_total: 55.69
+    sasa_side_chain: 54.74
+    relative_side_chain: 0.336

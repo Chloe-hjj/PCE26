@@ -1,0 +1,10 @@
+- name: adenovirus
+  scaffold: ADENOVIRUS/adenovirus.scaffold.pdb
+- name: cmv
+  scaffold: CMV/cmv.scaffold.pdb 
+- name: norovirus
+  scaffold: NOROVIRUS/norovirus.scaffold.pdb
+- name: stmv
+  scaffold: STMV/stmv.scaffold.pdb
+- name: glv
+  scaffold: GLV/glv.scaffold.pdb

@@ -1,0 +1,27 @@
+[project]
+name = "pce26"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "modal>=1.3.5",
+    "freesasa>=2.2.1",
+    "click>=8.3.1",
+    "pyyaml>=6.0.3",
+    "mdanalysis>=2.10.0",
+    "pdb-tools>=2.6.1",
+    "gemmi>=0.7.5",
+]
+
+[project.scripts]
+sasa-exposed-residues = "pce26.scripts.sasa_exposed_residues:main"
+generate-boltz-input = "pce26.scripts.generate_boltz_input:main"
+build-icosahedral = "pce26.scripts.build_icosahedral:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/pce26"]

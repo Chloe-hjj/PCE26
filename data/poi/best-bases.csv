@@ -1,0 +1,5 @@
+,chain,residue_number,residue_type,sasa_total,sasa_side_chain,relative_side_chain,poi
+141,B,5,GLU,200.8,131.51,0.995,fel d 1
+135,B,43,ASP,34.06,34.06,0.339,pru p 3
+570,B,404,GLU,163.43,143.21,1.083,ara h 1
+245,A,1005,GLU,186.13,106.9,0.809,crth

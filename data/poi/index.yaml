@@ -1,0 +1,8 @@
+- name: fel d 1
+  poi: feld1.pdb
+- name: pru p 3
+  poi: prup3.pdb 
+- name: ara h 1
+  poi: arah1.pdb
+- name: crth
+  poi: crth.pdb
