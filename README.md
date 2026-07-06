@@ -106,12 +106,4 @@ git commit -m "short description of what changed"
 
 ## Questions?
 
-Open an issue in this repo or reach out to Bruno
-
-
-
-Hi I'm chloe:)
-
-Hi
-
-# PCE26
+Open an issue in this repo or reach out to Chloe
