@@ -136,7 +136,7 @@ def main():
     sub_df["dist_norm"] = (sub_df["distance"] - dist_min) / dist_denom
         
     # Both are "higher is better", so we do NOT invert the distance!
-    # Applying your 2:1 importance ratio here
+    # Applying 2:1 importance ratio 
     sub_df["composite_score"] = (
         (2 * sub_df["dist_norm"]) + (1 * sub_df["sasa_norm"])
         ) / 3
